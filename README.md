@@ -40,7 +40,7 @@
 
 ## 使用方法
 
-常规按照部署方法，还原SQL数据库，敏感数据就没提供sql文件了，有需要的可以发邮件给我要一下：billchancbr@foxmail.com，请说明你的学院、专业、学号还有姓名，多少核实一下再给，礼貌一点。
+常规按照部署方法，还原SQL数据库，敏感数据就没提供sql文件了，有需要的可以私我提issue给个邮箱，请说明你的学院、专业、学号还有姓名，多少核实一下再给，礼貌一点。
 
 后端在backnd里面去运行requirements.txt，建议Python 3.9以上版本。然后在.env.prod和.env.dev中记得修改MySQL和Redis的连接配置。一个是生产环境，一个是开发环境，这里不赘述，可以去看一下原来[VF_Admin](https://gitee.com/insistence2022/RuoYi-Vue3-FastAPI)的文档。
 
