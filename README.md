@@ -130,6 +130,6 @@
 
 <img src=".\screenshot\image-20250607205722733.png" alt="image-20250607205722733" style="zoom:100%;" />
 
-<img src=".\screenshot\1.png" alt="1" style="zoom:10%;" />
+<img src=".\screenshot\1.png" alt="1" style="zoom:60%;" />
 
-<img src=".\screenshot\2.png" alt="2" style="zoom:10%;" />
+<img src=".\screenshot\2.png" alt="2" style="zoom:60%;" />
